@@ -24,7 +24,6 @@ OptiGuard tackles these challenges through a robust mathematical and architectur
 
 ## 🏗️ System Architecture (The Pipeline)
 
-![OptiGuard Pipeline](pipeline_optiguard.png)
 
 
 ## 📊 Key Results
